@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Privacy Policy – The Baylor Review</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body{font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif; 
+         line-height:1.6; max-width:860px; margin:40px auto; padding:0 16px; color:#1b1b1b}
+    h1,h2{color:#0a3d2e} small{color:#666}
+    a{color:#0a7e51; text-decoration:none} a:hover{text-decoration:underline}
+    ul{margin-left:1.1rem}
+    footer{margin-top:40px; font-size:0.95em; color:#555}
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <small>Last updated: August 15, 2025</small>
+
+  <p><strong>The Baylor Review</strong> (“we”, “us”) respects your privacy. This policy explains what we collect, how we use it, and your choices. 
+  This app is an independent student project and is <em>not affiliated with Baylor University</em>.</p>
+
+  <h2>Information We Collect</h2>
+  <ul>
+    <li><strong>Account information</strong> — e.g., email, display name, class year, major (you provide these).</li>
+    <li><strong>User content</strong> — reviews, ratings, messages, and reports you submit.</li>
+    <li><strong>Usage data</strong> — app interactions, device and OS version, app version, timestamps.</li>
+    <li><strong>Diagnostics</strong> — crash logs and performance data to improve stability.</li>
+  </ul>
+  <p><em>We do not collect your precise location, photos, contacts, or camera/microphone data.</em></p>
+
+  <h2>How We Use Your Information</h2>
+  <ul>
+    <li>Provide and improve core features (accounts, professor reviews, messaging).</li>
+    <li>Moderate user-generated content for safety and compliance.</li>
+    <li>Understand app performance and fix bugs.</li>
+    <li>Communicate service updates and respond to support requests.</li>
+  </ul>
+
+  <h2>Legal Basis & Age</h2>
+  <p>We process your data to provide the service you request and for our legitimate interests (e.g., safety, improvement). 
+  The app is for users <strong>13+</strong>. If you are under 13, do not use the app.</p>
+
+  <h2>Sharing</h2>
+  <ul>
+    <li><strong>Service providers</strong> — We use trusted vendors to operate the app (e.g., Firebase Authentication, Cloud Firestore, Crashlytics, optional Analytics). They process data on our behalf.</li>
+    <li><strong>Legal</strong> — We may disclose information if required by law or to protect rights, safety, and integrity of the service.</li>
+    <li><strong>No selling</strong> — We do not sell your personal information.</li>
+  </ul>
+
+  <h2>Data Retention</h2>
+  <p>We keep personal data for as long as your account is active or as needed to operate the app, resolve disputes, and meet legal obligations. 
+  You may delete your account at any time (see “Your Choices”).</p>
+
+  <h2>Your Choices & Rights</h2>
+  <ul>
+    <li><strong>Access/Update</strong> — You can view or update profile info in the app.</li>
+    <li><strong>Delete account</strong> — Use <em>Profile → Settings → Delete Account</em> to request deletion. This removes your personal data from active systems subject to lawful retention needs.</li>
+    <li><strong>Controls</strong> — You can disable optional analytics (if offered) in settings and/or device privacy controls.</li>
+  </ul>
+
+  <h2>Security</h2>
+  <p>We use industry-standard safeguards including encryption in transit and access controls. No method of transmission or storage is 100% secure.</p>
+
+  <h2>International Users</h2>
+  <p>Data may be stored and processed in the United States or where our providers operate, with appropriate protections.</p>
+
+  <h2>Changes to This Policy</h2>
+  <p>We may update this policy. Material changes will be reflected by updating the “Last updated” date and, when appropriate, in-app notices.</p>
+
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:[your-email]">[your-email]</a><br>
+     Postal (optional): [Your mailing address]</p>
+
+  <footer>
+    © <span id="y"></span> The Baylor Review
+  </footer>
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
+</html>
