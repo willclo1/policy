@@ -69,8 +69,8 @@
   <p>We may update this policy. Material changes will be reflected by updating the “Last updated” date and, when appropriate, in-app notices.</p>
 
   <h2>Contact</h2>
-  <p>Email: <a href="mailto:[your-email]">[your-email]</a><br>
-     Postal (optional): [Your mailing address]</p>
+  <p>Email: <a href="mailto:thebaylorreview@gmail.com">thebaylorreview@gmail.com</a><br>
+
 
   <footer>
     © <span id="y"></span> The Baylor Review
